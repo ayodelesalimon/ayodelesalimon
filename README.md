@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter
 - 📫 How to reach me: ayodele951@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If i'm beating my laptop keyboards, I'm definitely playing some video games.
+- ⚡ Fun fact: If I'm not beating my laptop keyboard, I'm definitely playing some video games or reading some tech articles.
 -->
