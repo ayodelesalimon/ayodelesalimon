@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Delivery App With Flutter
+- 🔭 I’m currently working on Mobile App With Flutter
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Azure
@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 -->
 
 ![Ayodele's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayodelesalimon&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayodelesalimon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
