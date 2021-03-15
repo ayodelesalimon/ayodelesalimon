@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not beating my laptop keyboard, I'm definitely playing some video games or reading some tech articles.
 -->
+
+![Ayodele's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayodelesalimon&show_icons=true)
